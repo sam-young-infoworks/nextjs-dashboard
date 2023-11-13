@@ -1,9 +1,9 @@
-// app/page.tsx
+// // app/page.tsx
 
-import Chat from './chat'
+// import Chat from './chat'
 
-export const runtime = 'edge'
+// export const runtime = 'edge'
 
-export default function Page() {
-  return <Chat />
-}
+// export default function Page() {
+//   return <Chat />
+// }
